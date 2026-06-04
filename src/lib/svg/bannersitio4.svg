@@ -1,0 +1,84 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="742.16913mm"
+   height="54.806469mm"
+   viewBox="0 0 742.16913 54.806469"
+   version="1.1"
+   id="svg2814"
+   inkscape:version="0.92.4 (5da689c313, 2019-01-14)"
+   sodipodi:docname="bannersitio4.svg">
+  <defs
+     id="defs2808" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35"
+     inkscape:cx="1116.0098"
+     inkscape:cy="-309.44949"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     fit-margin-top="0"
+     fit-margin-left="0"
+     fit-margin-right="0"
+     fit-margin-bottom="0"
+     inkscape:window-width="1920"
+     inkscape:window-height="1009"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2811">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(148.61995,-198.57501)">
+    <rect
+       style="opacity:0.98999999;fill:#2b2f33;fill-opacity:1;stroke:none;stroke-width:0.92771637;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       id="rect3359"
+       width="742.16913"
+       height="40.443455"
+       x="-148.61995"
+       y="198.57501" />
+    <path
+       style="opacity:0.98999999;fill:#25758d;fill-opacity:1;stroke:none;stroke-width:0.55672514;stroke-linecap:square;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="m 17.519757,198.57501 c 0,0 12.380219,11.0541 29.57649,22.04339 17.19625,10.98931 34.950321,16.44647 34.950321,16.44647 0,0 70.571532,16.31661 139.284002,16.31661 68.71247,0 141.55207,-16.31661 141.55207,-16.31661 0,0 17.75405,-5.45716 34.95032,-16.44647 17.19628,-10.98929 29.57651,-22.04339 29.57651,-22.04339 H 82.046568 v 0.18418 c -19.414439,-0.12064 -40.822116,-0.18418 -64.526811,-0.18418 z"
+       id="rect3359-6"
+       inkscape:connector-curvature="0" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:15.29459572px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;display:inline;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.3823649"
+       x="99.883217"
+       y="226.52298"
+       id="text817"><tspan
+         sodipodi:role="line"
+         id="tspan815"
+         x="99.883217"
+         y="226.52298"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0.54597431px;fill:#ffffff;stroke-width:0.3823649">PROGRAMA TECHO PROPIO</tspan></text>
+  </g>
+</svg>
